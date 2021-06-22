@@ -10,7 +10,7 @@ It gathers :
 - Ressources for learning creative programming
 
 ## Contributing
-Please do not hesitate to contribute to this list by sending a pull request or by sending me links by email at mathilde.buenerd@gmail.com :)
+Please do not hesitate to contribute to this list by sending a pull request :)
 
 ## [Critical | Speculative | Fiction] Design
 
